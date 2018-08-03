@@ -8,7 +8,7 @@ print ("This is printed before the loop starts.\n");
 
 while ($done == 0) {
 
-	print ("The valuse of count is ", $count, "\n");
+	print ("The values of count is ", $count, "\n");
 
 	if ($count == 3) {
 
