@@ -12,9 +12,9 @@ until ($input_answer == $correct_answer) {
 
 	print ("Wrong! keep trying!\n");
 	
-#	$input_answer = <STDIN>;
+	$input_answer = <STDIN>;
 	
-#	chop ($input_answer);
+	chop ($input_answer);
 
 }
 
